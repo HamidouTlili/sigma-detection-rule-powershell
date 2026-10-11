@@ -64,9 +64,9 @@ Instead of standing up a full SIEM, ran the rule directly against a real forensi
 a rule tested against a toy example — it's a rule that caught a real, previously-documented
 execution chain on the first clean run.
 
-![Chainsaw hunt result — rule firing on real Sysmon data](screenshots/chainsaw-full-result.png)
-
-
+![Chainsaw hunt result — rule firing on real Sysmon data](screenshots/preview1.webp)
+![Chainsaw hunt result — rule firing on real Sysmon data](screenshots/preview2.webp)
+![Chainsaw hunt result — rule firing on real Sysmon data](screenshots/preview3.webp)
 
 ## Step 4 — Hunt your own false positives
 Being honest about what else would trigger this exact rule is what separates a usable detection
