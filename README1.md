@@ -96,13 +96,3 @@ traced back to.
 
 ---
 
-### LinkedIn post draft
-
-> Wrote a Sigma detection rule from scratch to catch encoded PowerShell execution, then proved it
-> works — not against a toy example, but by running it with Chainsaw against a real Sysmon log
-> containing a genuine attack chain I'd investigated earlier. 2 detections, 2 documents, zero
-> false positives.
->
-> Full write-up + the rule itself on GitHub: [link]
->
-> #cybersecurity #SOC #Sigma #detectionengineering #blueteam
