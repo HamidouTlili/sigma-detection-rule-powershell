@@ -66,7 +66,7 @@ execution chain on the first clean run.
 
 ![Chainsaw hunt result — rule firing on real Sysmon data](screenshots/chainsaw-full-result.png)
 
-> A rule that never fired in front of you is a guess, not a detection.
+
 
 ## Step 4 — Hunt your own false positives
 Being honest about what else would trigger this exact rule is what separates a usable detection
@@ -83,7 +83,7 @@ No exclusion filter was applied to the two real hits above, since neither matche
 case — both trace to a simulated lure file launched from a user's Desktop via `mshta.exe`, not an
 IT or backup tool.
 
-> Every exclusion is a hole in your net. Write down why you cut it.
+
 
 ## What I learned
 Getting "No valid detection rules were found" from a syntactically valid Sigma rule was the most
