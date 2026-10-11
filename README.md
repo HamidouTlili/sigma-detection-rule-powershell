@@ -1,0 +1,1 @@
+# sigma-detection-rule-powershell
